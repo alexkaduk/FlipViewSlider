@@ -1,0 +1,1 @@
+D:\Projects\WMT-Tasks\FlipViewSlider\FlipViewSlider\FlipViewSlider.csproj;x86
